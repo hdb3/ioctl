@@ -1,3 +1,2 @@
-# ioctl
-
-Home for the ioctl / session code no longer needed in hBGP
+# session
+application/protocol agnostic Haskell network daemon framework
